@@ -104,7 +104,7 @@ I lead quality control and optimization of AI-generated code for global engineer
 | Projects shipped with 100% on-time delivery | **8+** |
 | Performance gain in CMS architecture | **40%** |
 | Reduction in security incidents via JWT hardening | **15%** |
-| Global teams supported across 3 continents | **Americas · Europe · Asia** |
+| Global teams supported across 3 continents | **Americas · Europe** |
 
 </div>
 
@@ -147,7 +147,7 @@ Outside of engineering, I bring the same discipline and persistence to two very 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-pasapera-navarro/)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://isaacpassnav.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://porfolio-one-azure-64.vercel.app/)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasapera279@gmail.com)
 
