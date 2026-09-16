@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Isaac+Pasapera;Full-Stack+Developer;AI+Integration+Specialist" alt="Isaac Pasapera" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Isaac+Pasapera;Full-Stack+Developer;AI+Integration" alt="Isaac Pasapera" />
 
 <br/>
 
