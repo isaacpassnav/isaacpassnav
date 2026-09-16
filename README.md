@@ -18,7 +18,7 @@
 
 ## `> whoami`
 
-I am a **Full-Stack Developer and AI Integration Specialist** with a sharp focus on building **secure, high-performance systems** — from revenue-critical billing platforms to AI-powered automation pipelines. I write clean backend architecture, move fast on the frontend, and bridge the gap between cutting-edge AI capabilities and real-world production requirements.
+I am a **Full-Stack Developer** with a sharp focus on building **secure, high-performance systems** — from revenue-critical billing platforms to AI-powered automation pipelines. I write clean backend architecture, move fast on the frontend, and bridge the gap between cutting-edge AI capabilities and real-world production requirements.
 
 My work spans the **Americas, Europe, and Asia**. I thrive under deadline pressure, lead quality initiatives across distributed teams, and treat every system I ship as a direct reflection of my engineering standards.
 
@@ -31,9 +31,9 @@ My work spans the **Americas, Europe, and Asia**. I thrive under deadline pressu
 <td width="14px" align="center"><img src="https://img.shields.io/badge/--%3E-A855F7?style=flat-square&logoColor=white" /></td>
 <td>
 
-**AI Code Quality Lead** at **Springboard**
+**Data entry specialist Lead** at **Springboard**
 
-I lead quality control and optimization of AI-generated code for global engineering teams across the **Americas, Europe, and Asia**. My responsibilities include defining review standards, enforcing best practices, and measurably improving the reliability and security of AI-assisted codebases at scale.
+I lead quality control and optimization for global engineering teams across the **Americas, Europe, and Asia**. My responsibilities include defining review standards, enforcing best practices, and measurably improving the reliability and security of AI-assisted codebases at scale.
 
 </td>
 </tr>
