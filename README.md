@@ -31,7 +31,7 @@ My work spans the **Americas, Europe, and Asia**. I thrive under deadline pressu
 <td width="14px" align="center"><img src="https://img.shields.io/badge/--%3E-A855F7?style=flat-square&logoColor=white" /></td>
 <td>
 
-**Data entry specialist ** at **Springboard**
+**Data entry specialist** at **Springboard**
 
 I lead quality control and optimization for global engineering teams across the **Americas, Europe, and Asia**. My responsibilities include defining review standards, enforcing best practices, and measurably improving the reliability and security of AI-assisted codebases at scale.
 
